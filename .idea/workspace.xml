@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebc349a3-a7d3-4b50-b014-67a2db991990" name="Default Changelist" comment="">
+    <list default="true" id="ebc349a3-a7d3-4b50-b014-67a2db991990" name="Default Changelist" comment="delete a folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
       <workItem from="1573532737609" duration="1222000" />
       <workItem from="1573883344532" duration="1226000" />
       <workItem from="1574485816065" duration="1202000" />
-      <workItem from="1574582964968" duration="6049000" />
+      <workItem from="1574582964968" duration="6557000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1573471037588</created>
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574590727293</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete a folder">
+      <created>1574597512801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574597512801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +116,7 @@
     <MESSAGE value="demo" />
     <MESSAGE value="demo1" />
     <MESSAGE value="added react client files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added react client files" />
+    <MESSAGE value="delete a folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete a folder" />
   </component>
 </project>
