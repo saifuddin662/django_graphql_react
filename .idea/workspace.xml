@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebc349a3-a7d3-4b50-b014-67a2db991990" name="Default Changelist" comment="delete a folder">
+    <list default="true" id="ebc349a3-a7d3-4b50-b014-67a2db991990" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +63,7 @@
       <workItem from="1573532737609" duration="1222000" />
       <workItem from="1573883344532" duration="1226000" />
       <workItem from="1574485816065" duration="1202000" />
-      <workItem from="1574582964968" duration="6557000" />
+      <workItem from="1574582964968" duration="7026000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1573471037588</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574597512801</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete a folder">
+      <created>1574597953122</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574597953122</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +125,16 @@
     <MESSAGE value="added react client files" />
     <MESSAGE value="delete a folder" />
     <option name="LAST_COMMIT_MESSAGE" value="delete a folder" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/app/settings.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
