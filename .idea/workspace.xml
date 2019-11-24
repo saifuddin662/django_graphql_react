@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc349a3-a7d3-4b50-b014-67a2db991990" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tracks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tracks/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react-tracks-client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TEah6axcL9nHSMuvFmvjFyVCOd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,7 +64,7 @@
       <workItem from="1573532737609" duration="1222000" />
       <workItem from="1573883344532" duration="1226000" />
       <workItem from="1574485816065" duration="1202000" />
-      <workItem from="1574582964968" duration="4110000" />
+      <workItem from="1574582964968" duration="6049000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1573471037588</created>
@@ -81,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573471115069</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added react client files">
+      <created>1574590727293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574590727293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo" />
     <MESSAGE value="demo1" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo1" />
+    <MESSAGE value="added react client files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added react client files" />
   </component>
 </project>
